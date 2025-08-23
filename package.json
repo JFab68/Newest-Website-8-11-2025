@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@mcp-b/transports": "^1.0.3",
+    "puppeteer": "^24.17.0",
     "ws": "^8.18.0"
   }
 }
