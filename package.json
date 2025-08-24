@@ -5,16 +5,13 @@
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
-    "build": "node scripts/build.js",
-    "mcp-relay": "node start-mcp-relay.js",
-    "start-relay": "npm run mcp-relay"
+    "serve": "npx http-server -p 8080",
+    "test:visual": "node scripts/visual-audit.js"
   },
   "devDependencies": {
-    "standard-version": "^9.5.0"
+    "standard-version": "^9.5.0",
+    "http-server": "^14.1.1",
+    "puppeteer": "^22.10.0"
   },
-  "dependencies": {
-    "@mcp-b/transports": "^1.0.3",
-    "puppeteer": "^24.17.0",
-    "ws": "^8.18.0"
-  }
+  "dependencies": {}
 }

@@ -2,16 +2,12 @@
 # Criminal Justice Reform & Prison Oversight Organization
 
 User-agent: *
-Allow: /
-
-# Disallow access to sensitive areas
-Disallow: /css/
-Disallow: /js/
+# Allow all crawlers full access to render the site.
+# Sensitive files should be excluded from the build/deploy process.
 Disallow: /.htaccess
 Disallow: /README.md
 Disallow: /CHANGELOG.md
 Disallow: /package.json
-Disallow: /netlify.toml
 
 # Allow social media crawlers full access
 User-agent: facebookexternalhit
