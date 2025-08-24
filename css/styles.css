@@ -354,70 +354,70 @@ img[loading="lazy"].loaded {
 
 /* Page-specific hero backgrounds with WebP optimization */
 .hero.homepage-hero {
- background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('10 Assets/Homepage Images and Graphics/Homepage Hero Image.webp');
+ background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('../10-assets/Homepage-Images-and-Graphics/Homepage-Hero-Image.webp');
  background-size: cover;
  background-position: center;
  background-attachment: fixed;
 }
 
 .hero.action-center-hero {
- background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('10 Assets/Civics and Advocacy/Core Civics Hero Image.webp');
+ background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('../10-assets/Civics-and-Advocacy/Core-Civics-Hero-Image.webp');
  background-size: cover;
  background-position: center;
  background-attachment: fixed;
 }
 
 .hero.news-hero {
- background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('10 Assets/News Images and Graphics - Copy (4)/Newspaper Graphix - Copy (2024_12_19 23_46_43 UTC)_5460_3916.webp');
+ background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('../10-assets/News-Images-and-Graphics/Newspaper-Graphix_5460_3916.webp');
  background-size: cover;
  background-position: center;
  background-attachment: fixed;
 }
 
 .hero.contact-hero {
- background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('10 Assets/Contact/Contact Hero Image.webp');
+ background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('../10-assets/Contact/Contact-Hero-Image.webp');
  background-size: cover;
  background-position: center;
  background-attachment: fixed;
 }
 
 .hero.donate-hero {
- background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('10 Assets/Donate Images and Graphics/Donation Hero Image.webp');
+ background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('../10-assets/Donate-Images-and-Graphics/Donation-Hero-Image.webp');
  background-size: cover;
  background-position: center;
  background-attachment: fixed;
 }
 
 .hero.criminal-legal-reform-hero {
- background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('10 Assets/Criminal Legal System images/Criminal Legal Reform Hero Image.webp');
+ background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('../10-assets/Criminal-Legal-System-images/Criminal-Legal-Reform-Hero-Image.webp');
  background-size: cover;
  background-position: center;
  background-attachment: fixed;
 }
 
 .hero.drug-policy-hero {
- background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('10 Assets/Drug Policy and OD Prevention/Drug Policy Hero Image.webp');
+ background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('../10-assets/Drug-Policy-and-OD-Prevention/Drug-Policy-Hero-Image.webp');
  background-size: cover;
  background-position: center;
  background-attachment: fixed;
 }
 
 .hero.prison-oversight-hero {
- background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('10 Assets/Prison Oversight/johnnyfab68_A_high-resolution_photorealistic_image_of_sunligh_8a6cac5c-4345-4055-afa3-d0ebd9897eaa_0_1536_768.webp');
+ background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('../10-assets/Prison-Oversight/johnnyfab68_A_high-resolution_photorealistic_image_of_sunligh_8a6cac5c-4345-4055-afa3-d0ebd9897eaa_0_1536_768.webp');
  background-size: cover;
  background-position: center;
  background-attachment: fixed;
 }
 
 .hero.arts-in-prison-hero {
- background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('10 Assets/Arts In Prison/Arts In Prison Hero Image.webp');
+ background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('../10-assets/Arts-In-Prison/Arts-In-Prison-Hero-Image.webp');
  background-size: cover;
  background-position: center;
  background-attachment: fixed;
 }
 
 .hero.civic-engagement-hero {
- background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('10 Assets/Civics and Advocacy/Core Civics Hero Image.webp');
+ background: linear-gradient(rgba(0, 0, 128, 0.7), rgba(128, 0, 0, 0.7)), url('../10-assets/Civics-and-Advocacy/Core-Civics-Hero-Image.webp');
  background-size: cover;
  background-position: center;
  background-attachment: fixed;
@@ -18271,4 +18271,3 @@ function toggleFAQ(faqNumber) {
         font-size: 20px;
     }
 }
-
